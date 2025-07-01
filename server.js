@@ -13,7 +13,7 @@ const dashboardRoutes = require('./Routes/DashboardRoutes');
 const app = express();
 
 app.use(cors({
-  origin: "https://bhaskar-bm.netlify.app"
+  origin: "https://bhaskar-bm.netlify.app",credentials: "true"
 }));
 app.use(express.json());
 
