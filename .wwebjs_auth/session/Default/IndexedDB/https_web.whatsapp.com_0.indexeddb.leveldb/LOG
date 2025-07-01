@@ -1,0 +1,27 @@
+2025/06/29-21:39:32.948 9a0 Reusing MANIFEST C:\Users\mallb\OneDrive\Desktop\copy\backend\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/06/29-21:39:32.949 9a0 Recovering log #289
+2025/06/29-21:39:32.949 9a0 Reusing old log C:\Users\mallb\OneDrive\Desktop\copy\backend\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000289.log 
+2025/06/29-21:39:36.522 61e4 Compacting 1@1 + 3@2 files
+2025/06/29-21:39:36.631 61e4 Generated table #292@1: 65499 keys, 2224977 bytes
+2025/06/29-21:39:36.661 61e4 Generated table #293@1: 10669 keys, 2178934 bytes
+2025/06/29-21:39:36.735 61e4 Generated table #294@1: 42383 keys, 1644303 bytes
+2025/06/29-21:39:36.735 61e4 Compacted 1@1 + 3@2 files => 6048214 bytes
+2025/06/29-21:39:36.735 61e4 compacted to: files[ 0 0 3 0 0 0 0 ]
+2025/06/29-21:39:36.736 61e4 Delete type=2 #285
+2025/06/29-21:39:36.736 61e4 Delete type=2 #286
+2025/06/29-21:39:36.736 61e4 Delete type=2 #287
+2025/06/29-21:39:36.736 61e4 Delete type=2 #290
+2025/06/29-21:39:37.478 5a44 Level-0 table #296: started
+2025/06/29-21:39:37.479 5a44 Level-0 table #296: 15494 bytes OK
+2025/06/29-21:39:37.480 5a44 Delete type=0 #289
+2025/06/29-21:39:37.480 5a44 Manual compaction at level-0 from '\x00Q\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00R\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/06/29-21:39:38.920 2fa0 Compacting 1@1 + 3@2 files
+2025/06/29-21:39:39.020 2fa0 Generated table #297@1: 65541 keys, 2224575 bytes
+2025/06/29-21:39:39.069 2fa0 Generated table #298@1: 10677 keys, 2177870 bytes
+2025/06/29-21:39:39.127 2fa0 Generated table #299@1: 42411 keys, 1647203 bytes
+2025/06/29-21:39:39.127 2fa0 Compacted 1@1 + 3@2 files => 6049648 bytes
+2025/06/29-21:39:39.128 2fa0 compacted to: files[ 0 0 3 0 0 0 0 ]
+2025/06/29-21:39:39.128 2fa0 Delete type=2 #292
+2025/06/29-21:39:39.128 2fa0 Delete type=2 #293
+2025/06/29-21:39:39.128 2fa0 Delete type=2 #294
+2025/06/29-21:39:39.128 2fa0 Delete type=2 #296
